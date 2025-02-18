@@ -2,17 +2,6 @@
   background-color: #000000;
 }
 
-/* .header {
-  max-width: 1200px;
-  margin: 0 auto;
-  height: 100px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-content: center;
-  align-items: center;
-} */
-
 .header {
   display: flex;
   flex-wrap: wrap;
