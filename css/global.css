@@ -2,6 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
   color: #141414;
+  padding-bottom: 600px;
 }
 
 p,
@@ -28,4 +29,5 @@ img {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
