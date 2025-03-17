@@ -1,3 +1,19 @@
-@import url(/css/global.css);
-@import url(/css/header.css);
-@import url(/css/main.css);
+@import url(/css/global/global.css);
+@import url(/css/global/header.css);
+
+/* Utilidades - Componentes Comuns */
+@import url(/css/utilidades/componentes.css);
+@import url(/css/utilidades/tipografia.css);
+@import url(/css/utilidades/cores.css);
+
+/* Página inicial - Home */
+@import url(/css/home/introducao.css);
+@import url(/css/home/tecnologia.css);
+@import url(/css/home/parceiros.css);
+@import url(/css/home/depoimento.css);
+
+/* Biciletas */
+@import url(/css/bicicletas/bicicletas-lista.css);
+
+/* Seguros */
+@import url(/css/seguros/seguros.css);
